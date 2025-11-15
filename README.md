@@ -1,4 +1,4 @@
-## 📄 Currículo Profissional - Alexandre Manzo
+## 📄 Alexandre Manzo
 
 Olá! Este é o meu currículo profissional em formato Markdown, ideal para exibição no GitHub, focando nas minhas qualificações e experiências em Análise de Dados e Business Intelligence.
 
